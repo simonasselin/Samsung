@@ -1,0 +1,640 @@
+@charset "UTF-8";
+#Banner {
+	background-repeat: no-repeat;
+	height: 400px;
+	width: 960px;
+	position: relative;
+	background-image: url(img/banner.jpg);
+	top: 0px;
+}
+#BannerFun {
+	background-repeat: no-repeat;
+	height: 400px;
+	width: 960px;
+	position: relative;
+	background-image: url(img/banner_fun.jpg);
+	top: 0px;
+}
+
+#Bannerlife {
+	background-repeat: no-repeat;
+	height: 400px;
+	width: 960px;
+	position: relative;
+	background-image: url(img/banner_lifetask.jpg);
+	top: 0px;
+}
+
+#Bannerrelation {
+	background-repeat: no-repeat;
+	height: 400px;
+	width: 960px;
+	position: relative;
+	background-image: url(img/banner_relation.jpg);
+	top: 0px;
+}
+
+#Bannersport {
+	background-repeat: no-repeat;
+	height: 400px;
+	width: 960px;
+	position: relative;
+	background-image: url(img/banner_sports.jpg);
+	top: 0px;
+}
+
+#Mainmenu {
+	background-color: rgba(0,0,0,0.57);
+	height: 25px;
+	width: 900px;
+	padding-top: 15px;
+	padding-right: 30px;
+	padding-bottom: 10px;
+	padding-left: 30px;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	text-align: right;
+}
+
+#MainContent {
+	background-color: rgba(255,255,255,1.00);
+	background-image: url(img/BgPhone.jpg);
+	background-repeat: no-repeat;
+	padding-top: 60px;
+	padding-right: 30px;
+	padding-left: 348px;
+	padding-bottom: 30px;
+	width: 582px;
+	background-origin: border-box;
+	background-position: 4% 56%;
+	background-attachment: scroll;
+	margin-bottom: 20px;
+	height: 530px;
+}
+#Video {
+	background-color: rgba(0,0,0,1);
+	height: 350px;
+	width: 582px;
+	margin-bottom: 30px;
+}
+
+#Banner #Mainmenu a {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 18px;
+	color: rgba(255,255,255,1);
+	text-decoration: none;
+	text-align: right;
+	padding-right: 10px;
+}
+
+#Banner #Mainmenu a:hover {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 18px;
+	color: rgba(34,164,121,0.68);
+	text-decoration: none;
+	text-align: right;
+	padding-right: 10px;
+}
+
+#Bannersport #Mainmenu a {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 18px;
+	color: rgba(255,255,255,1);
+	text-decoration: none;
+	text-align: right;
+	padding-right: 10px;
+}
+
+#Bannersport #Mainmenu a:hover {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 18px;
+	color: rgba(34,164,121,0.68);
+	text-decoration: none;
+	text-align: right;
+	padding-right: 10px;
+}
+
+#BannerFun #Mainmenu a {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 18px;
+	color: rgba(255,255,255,1);
+	text-decoration: none;
+	text-align: right;
+	padding-right: 10px;
+}
+
+#BannerFun #Mainmenu a:hover {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 18px;
+	color: rgba(34,164,121,0.68);
+	text-decoration: none;
+	text-align: right;
+	padding-right: 10px;
+}
+
+#Bannerlife #Mainmenu a {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 18px;
+	color: rgba(255,255,255,1);
+	text-decoration: none;
+	text-align: right;
+	padding-right: 10px;
+}
+
+#Bannerlife #Mainmenu a:hover {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 18px;
+	color: rgba(34,164,121,0.68);
+	text-decoration: none;
+	text-align: right;
+	padding-right: 10px;
+}
+
+#Bannerrelation #Mainmenu a {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 18px;
+	color: rgba(255,255,255,1);
+	text-decoration: none;
+	text-align: right;
+	padding-right: 10px;
+}
+
+#Bannerrelation #Mainmenu a:hover {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 18px;
+	color: rgba(34,164,121,0.68);
+	text-decoration: none;
+	text-align: right;
+	padding-right: 10px;
+}
+
+.MainTitle {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: 24px;
+	color: rgba(0,0,0,1);
+	text-decoration: underline;
+	text-align: center;
+}
+.Maintext {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+	text-align: left;
+}
+#Footer {
+	background-color: rgba(255,255,255,1);
+	background-image: url(img/FooterLogo.png);
+	height: 24px;
+	width: 830px;
+	background-position: 96% 0%;
+	padding-left: 0px;
+	background-repeat: no-repeat;
+	margin-bottom: 30px;
+	/* [disabled]border-top-color: rgba(0,0,0,1.00); */
+	/* [disabled]border-top-width: thin; */
+	padding-top: 7px;
+	padding-bottom: 7px;
+	text-align: right;
+	padding-right: 130px;
+}
+#Global {
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.FooterText {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: 10px;
+	color: rgba(0,0,0,1);
+}
+#Logo {
+	background-image: url(img/LogoBanner.png);
+	background-repeat: no-repeat;
+	height: 68px;
+	width: 452px;
+	position: relative;
+	left: 30px;
+	top: 60px;
+}
+
+#Logo2 {
+	background-image: url(img/logoBannerBlack.png);
+	background-repeat: no-repeat;
+	height: 68px;
+	width: 452px;
+	position: relative;
+	left: 30px;
+	top: 60px;
+}
+#MainTextPages {
+	background-color: rgba(255,255,255,1);
+	padding-top: 60px;
+	padding-right: 30px;
+	padding-left: 30px;
+	padding-bottom: 60px;
+	width: 900px;
+	margin-left: px;
+	background-image: 
+; 	background-repeat: no-repeat;
+}
+#Box1 {
+	background-image: url(img/DesignIMG/Design1.jpg);
+	background-repeat: no-repeat;
+	width: 900px;
+	margin-top: 30px;
+	margin-right: 0px;
+	margin-bottom: 60px;
+	margin-left: 0px;
+	height: 201px;
+}
+
+#Box2 {
+	width: 500px;
+	margin-top: 30px;
+	margin-right: 165px;
+	margin-bottom: 30px;
+	margin-left: 165px;
+	height: 170px;
+	padding-left: 50px;
+	padding-right: 50px;
+	text-align: center;
+	padding-bottom: 0px;
+}
+#box3 {
+	padding: 10px;
+	float: left;
+	width: 260px;
+	margin-top: 0px;
+	margin-right: 15px;
+	margin-bottom: 10px;
+	margin-left: 0px;
+	background-image: url(img/DesignIMG/screen2.jpg);
+	height: 200px;
+	background-repeat: no-repeat;
+	background-position: 50% 90%;
+}
+
+#box4 {
+	padding: 10px;
+	float: left;
+	width: 260px;
+	margin-top: 0px;
+	margin-right: 15px;
+	margin-bottom: 10px;
+	margin-left: 15px;
+	background-image: url(img/DesignIMG/slim3.jpg);
+	background-repeat: no-repeat;
+	background-position: 50% 90%;
+	height: 200px;
+}
+
+#box5 {
+	padding: 10px;
+	float: left;
+	width: 260px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 10px;
+	margin-left: 15px;
+	height: 200px;
+	background-image: url(img/DesignIMG/texture4.jpg);
+	background-repeat: no-repeat;
+	background-position: 50% 90%;
+}
+
+#boxSpec1 {
+	padding: 10px;
+	float: left;
+	width: 260px;
+	margin-top: 0px;
+	margin-right: 15px;
+	margin-bottom: 10px;
+	margin-left: 0px;
+	
+}
+
+#boxSpec2 {
+	padding: 10px;
+	float: left;
+	width: 260px;
+	margin-top: 0px;
+	margin-right: 15px;
+	margin-bottom: 10px;
+	margin-left: 15px;
+}
+
+#boxSpec3 {
+	padding: 10px;
+	float: left;
+	width: 260px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 10px;
+	margin-left: 15px;
+	
+}
+.PointForm {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: 11px;
+	color: rgba(0,0,0,1);
+	list-style-position: inside;
+	list-style-type: circle;
+}
+.Smalltext {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: 9px;
+	color: rgba(155,155,155,1);
+}
+.Subtitle {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: rgba(0,0,0,1);
+}
+
+#boxfeat1 {
+	padding: 10px;
+	float: left;
+	width: 415px;
+	margin-top: 0px;
+	margin-right: 15px;
+	margin-bottom: 10px;
+	margin-left: 0px;
+	
+	}
+	
+	#boxfeat2 {
+	padding: 10px;
+	float: left;
+	width: 415px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 10px;
+	margin-left: 15px;
+	}
+	
+#boxfeat3 {
+	padding: 10px;
+	float: left;
+	width: 415px;
+	margin-top: 0px;
+	margin-right: 15px;
+	margin-bottom: 10px;
+	margin-left: 0px;
+	border-top: 1px solid rgba(0,0,0,1.00);
+	}
+	
+	#boxfeat4 {
+	padding: 10px;
+	float: left;
+	width: 415px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 10px;
+	margin-left: 15px;
+	border-top: 1px solid rgba(0,0,0,1.00);
+	}
+	#Global #MainTextPages .Maintext a {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: 15px;
+	color: rgba(159,159,159,1);
+	text-decoration: none;
+}
+#Global #MainTextPages  .Maintext a:hover {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+	text-decoration: underline;
+}
+
+#Global #MainTextPages  .Maintext a:visited {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: 15px;
+	color: rgba(34,164,121,0.68);
+	text-decoration: underline;
+}
+
+#DualshotText {
+	width: 260px;
+	background-repeat: no-repeat;
+	background-position: 0% 100%;
+	border-bottom-width: medium;
+	border-bottom-color: rgba(5,5,5,1.00);
+	margin-left: 0px;
+	margin-right: 15px;
+	margin-bottom: 0px;
+	padding-top: 0px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	float: left;
+}
+.TITLEFEAT {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: 50px;
+	color: rgba(0,0,0,1);
+	text-decoration: underline;
+	text-align: left;
+}
+
+
+
+#dramashot {
+	padding: 10px;
+	float: left;
+	width: 550px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 10px;
+	margin-left: 15px;
+	background-image: url(img/dramashot.jpg);
+	height: 340px;
+	background-repeat: no-repeat;
+	background-position: 0% 50%;
+}
+
+#soundshot {
+	padding: 10px;
+	float: left;
+	width: 550px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 10px;
+	margin-left: 15px;
+	background-image: url(img/Soundnshot.jpg);
+	height: 340px;
+	background-repeat: no-repeat;
+	background-position: 0% 90%;
+}
+
+#dualshotpic {
+	padding: 10px;
+	float: left;
+	width: 550px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 10px;
+	margin-left: 15px;
+	height: 340px;
+	background-repeat: no-repeat;
+	background-position: 0% 90%;
+	background-image: url(img/dualshot.jpg);
+}
+
+#smartpause {
+	padding-top: 20px;
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-bottom: 10px;
+	float: left;
+	width: 260px;
+	margin-top: 0px;
+	margin-right: 15px;
+	margin-bottom: 10px;
+	margin-left: 15px;
+	height: 410px;
+	background-repeat: no-repeat;
+	background-position: 0% 50%;
+	background-image: url(img/task/smartpause.jpg);
+}
+
+#smartpause2 {
+	padding: 10px;
+	float: left;
+	width: 260px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 10px;
+	margin-left: 15px;
+	height: 410px;
+	background-repeat: no-repeat;
+	background-position: 0% 3%;
+	background-image: url(img/task/shemassmartpause.gif);
+}
+
+#airview {
+	padding-top: 20px;
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-bottom: 10px;
+	float: left;
+	width: 560px;
+	margin-top: 0px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	margin-left: 15px;
+	background-image: url(img/task/air.jpg);
+	height: 300px;
+	background-repeat: no-repeat;
+	background-position: 70% 0%;
+}
+
+#watchon {
+	padding-top: 20px;
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-bottom: 10px;
+	float: left;
+	width: 550px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 10px;
+	margin-left: 15px;
+	background-image: url(img/task/watchon.jpg);
+	height: 450px;
+	background-repeat: no-repeat;
+	background-position: 0% 0%;
+}
+
+#stranslator {
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-left: 0px;
+	padding-bottom: 0px;
+	float: left;
+	width: 550px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 10px;
+	margin-left: 15px;
+	background-image: url(img/relation/stranslator.jpg);
+	height: 300px;
+	background-repeat: no-repeat;
+	background-position: 0% 0%;
+}
+
+#shealth {
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-bottom: 10px;
+	float: left;
+	width: 560px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 10px;
+	margin-left: 15px;
+	background-image: url(img/sports/shealth.jpg);
+	height: 400px;
+	background-repeat: no-repeat;
+	background-position: 0% 0%;
+}
+
+#chaton {
+	padding-top: 20px;
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-bottom: 20px;
+	float: left;
+	width: 560px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 10px;
+	margin-left: 15px;
+	background-image: url(img/relation/chaton.jpg);
+	height: 300px;
+	background-repeat: no-repeat;
+	background-position: 40% 0%;
+	background-origin: padding-box;
+}
+
+#display {
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-bottom: 10px;
+	float: left;
+	width: 560px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 10px;
+	margin-left: 15px;
+	background-image: url(img/sports/adaptdisplay.jpg);
+	height: 400px;
+	background-repeat: no-repeat;
+	background-position: 0% 0%;
+}
+
+#sound {
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-bottom: 10px;
+	float: left;
+	width: 560px;
+	margin-top: 0px;
+	margin-right: 15px;
+	margin-bottom: 10px;
+	margin-left: 0px;
+	background-image: url(img/sports/sound.jpg);
+	height: 400px;
+	background-repeat: no-repeat;
+	background-position: 0% 0%;
+}
+#back {
+	background-image: url(img/relation/back-02.png);
+	height: 15px;
+	width: 900px;
+	background-repeat: no-repeat;
+}
